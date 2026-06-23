@@ -104,12 +104,11 @@ Stores historical event outcomes and operational responses to continuously impro
 
 ---
 
-## 🌐 Interactive Dashboard
+## 🚨 Emergency Alert System
 
-![Dashboard](assets/dashboard.png)
+![Emergency Alert](assets/emergency_alert.png)
 
-Provides real-time visual insights, analytics, recommendations, and decision-support tools through a user-friendly web interface.
-
+Provides instant alerts and notifications for unexpected incidents such as accidents, road blockages, sudden gatherings, and emergency situations. The system enables authorities to take immediate action, deploy resources efficiently, and minimize traffic disruptions before they escalate.
 ---
 
 # 👥 Team Members
