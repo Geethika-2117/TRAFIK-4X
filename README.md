@@ -2,8 +2,6 @@
 
 # 🚦 TRAFIK-4X
 
-![TRAFIK-4X Banner](assets/banner.png)
-
 ### Predict. Cooperate. Respond. Learn.
 
 </div>
@@ -18,7 +16,7 @@ The platform transforms historical and real-time event data into actionable reco
 
 <div align="center">
 
-![Mission Image](assets/mission.png)
+![Mission Image](src/assets/mission.png)
 
 </div>
 
@@ -58,7 +56,7 @@ The platform provides predictive insights, operational recommendations, and cont
 
 <div align="center">
 
-![Features Overview](assets/features.png)
+![Features Overview](src/assets/features.png)
 
 </div>
 
@@ -66,7 +64,7 @@ The platform provides predictive insights, operational recommendations, and cont
 
 ## 📊 Event Impact Prediction
 
-![Prediction](assets/prediction.png)
+![Prediction](src/assets/prediction.png)
 
 Predicts the severity of traffic congestion using historical event data, event characteristics, and real-time conditions.
 
@@ -74,7 +72,7 @@ Predicts the severity of traffic congestion using historical event data, event c
 
 ## 🚧 Diversion Recommendation Engine
 
-![Diversion](assets/diversion.png)
+![Diversion](src/assets/diversion.png)
 
 Generates optimized diversion strategies to minimize congestion and maintain smooth traffic flow around affected areas.
 
@@ -82,7 +80,7 @@ Generates optimized diversion strategies to minimize congestion and maintain smo
 
 ## 👮 Resource Allocation Planning
 
-![Resource Planning](assets/resource.png)
+![Resource Planning](src/assets/resource.png)
 
 Recommends the required manpower, barricades, tow vehicles, and operational resources based on predicted impact.
 
@@ -90,7 +88,7 @@ Recommends the required manpower, barricades, tow vehicles, and operational reso
 
 ## 🧠 Digital Twin Simulation
 
-![Digital Twin](assets/digitaltwin.png)
+![Digital Twin](src/assets/digitaltwin.png)
 
 Evaluates multiple response scenarios before deployment, helping authorities choose the most effective strategy.
 
@@ -98,7 +96,7 @@ Evaluates multiple response scenarios before deployment, helping authorities cho
 
 ## 📈 Event Intelligence Repository
 
-![Repository](assets/history.png)
+![Repository](src/assets/history.png)
 
 Stores historical event outcomes and operational responses to continuously improve future predictions and recommendations.
 
@@ -106,7 +104,7 @@ Stores historical event outcomes and operational responses to continuously impro
 
 ## 🚨 Emergency Alert System
 
-![Emergency Alert](assets/emergency_alert.png)
+![Emergency Alert](src/assets/emergency_alert.png)
 
 Provides instant alerts and notifications for unexpected incidents such as accidents, road blockages, sudden gatherings, and emergency situations. The system enables authorities to take immediate action, deploy resources efficiently, and minimize traffic disruptions before they escalate.
 ---
@@ -140,11 +138,7 @@ The solution addresses a practical urban challenge and supports smarter, safer, 
 
 <div align="center">
 
-![Website Preview](assets/website.png)
-
 </div>
-
-### Link:
 **Deploy Link:** 
 
 ```text
