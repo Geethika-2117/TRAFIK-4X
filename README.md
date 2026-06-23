@@ -146,12 +146,10 @@ The solution addresses a practical urban challenge and supports smarter, safer, 
 </div>
 
 ### Link:
-**Deploy Link:** `https://trafik-4-x.vercel.app`
-
-Example:
+**Deploy Link:** 
 
 ```text
-https://trafik-4x.vercel.app
+https://trafik-4-x.vercel.app
 ```
 
 ---
@@ -212,13 +210,7 @@ Visit the frontend URL in your browser and start exploring TRAFIK-4X.
 ### GitHub Repository
 
 ```text
-Paste GitHub Repository Link Here
-```
-
-Example:
-
-```text
-https://github.com/your-team/TRAFIK-4X
+https://github.com/Geethika-2117/TRAFIK-4X
 ```
 
 ---
